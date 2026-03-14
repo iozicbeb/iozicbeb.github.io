@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Obsidian</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Obsidian</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>NetExec</title>
+    <link>https://quartz.jzhao.xyz/Cheatsheets/NetExec</link>
+    <guid>https://quartz.jzhao.xyz/Cheatsheets/NetExec</guid>
+    <description> Latest Windows and Linux versions can be downloaded from here. New techniques can be found on this Twitter profile. Official wiki.</description>
+    <pubDate>Wed, 26 Nov 2025 23:00:00 GMT</pubDate>
+  </item><item>
+    <title>bloodyAD</title>
+    <link>https://quartz.jzhao.xyz/Cheatsheets/bloodyAD</link>
+    <guid>https://quartz.jzhao.xyz/Cheatsheets/bloodyAD</guid>
+    <description> Latest Windows and Linux versions can be downloaded from here. New techniques can be found on this Twitter profile. Official wiki.</description>
+    <pubDate>Wed, 26 Nov 2025 23:00:00 GMT</pubDate>
+  </item><item>
+    <title>Mirage</title>
+    <link>https://quartz.jzhao.xyz/Hack-The-Box/Windows/Hard/Mirage</link>
+    <guid>https://quartz.jzhao.xyz/Hack-The-Box/Windows/Hard/Mirage</guid>
+    <description> Enumeration Open ports: sudo nmap -T4 -sCV -p- -Pn --min-rate 5000 --open 10.129.233.77 ..</description>
+    <pubDate>Fri, 21 Nov 2025 23:00:00 GMT</pubDate>
+  </item><item>
+    <title>Outbound</title>
+    <link>https://quartz.jzhao.xyz/Hack-The-Box/Linux/Easy/Outbound</link>
+    <guid>https://quartz.jzhao.xyz/Hack-The-Box/Linux/Easy/Outbound</guid>
+    <description> Enumeration Open ports: sudo nmap -T4 -sCV -p- -Pn --min-rate 5000 --open 10.129.95.223 ..</description>
+    <pubDate>Fri, 14 Nov 2025 23:00:00 GMT</pubDate>
+  </item><item>
+    <title>TombWatcher</title>
+    <link>https://quartz.jzhao.xyz/Hack-The-Box/Windows/Medium/TombWatcher</link>
+    <guid>https://quartz.jzhao.xyz/Hack-The-Box/Windows/Medium/TombWatcher</guid>
+    <description> Enumeration Open ports: sudo nmap -T4 -sCV -p- -Pn --min-rate 5000 --open 10.129.118.176 ..</description>
+    <pubDate>Mon, 10 Nov 2025 23:00:00 GMT</pubDate>
+  </item><item>
+    <title>ivan@127.0.0.1:~$ whoami</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>Hi, my name is Ivan Ožić Bebek and I’m a Penetration Tester / Red Teamer based in Zagreb (Croatia).</description>
+    <pubDate>Mon, 27 Oct 2025 17:07:58 GMT</pubDate>
+  </item><item>
+    <title>Fluffy</title>
+    <link>https://quartz.jzhao.xyz/Hack-The-Box/Windows/Easy/Fluffy</link>
+    <guid>https://quartz.jzhao.xyz/Hack-The-Box/Windows/Easy/Fluffy</guid>
+    <description> Enumeration Open ports: sudo nmap -T4 -sCV -p- -Pn --min-rate 5000 --open 10.129.80.219 ..</description>
+    <pubDate>Fri, 19 Sep 2025 22:00:00 GMT</pubDate>
+  </item><item>
+    <title>Eureka</title>
+    <link>https://quartz.jzhao.xyz/Hack-The-Box/Linux/Hard/Eureka</link>
+    <guid>https://quartz.jzhao.xyz/Hack-The-Box/Linux/Hard/Eureka</guid>
+    <description> Enumeration Open ports: sudo nmap -T4 -sCV -p- -Pn --min-rate 5000 --open 10.10.11.66 ..</description>
+    <pubDate>Fri, 29 Aug 2025 22:00:00 GMT</pubDate>
+  </item><item>
+    <title>AuthBy</title>
+    <link>https://quartz.jzhao.xyz/OffSec/Windows/Intermediate/AuthBy</link>
+    <guid>https://quartz.jzhao.xyz/OffSec/Windows/Intermediate/AuthBy</guid>
+    <description>Enumeration Open ports: nmap -T4 -A -p- -Pn 192.168.181.46 .. Nmap scan report for 192.168.181.46 Host is up (0.054s latency).</description>
+    <pubDate>Wed, 02 Jul 2025 22:00:00 GMT</pubDate>
+  </item><item>
+    <title>Heal</title>
+    <link>https://quartz.jzhao.xyz/Hack-The-Box/Linux/Medium/Heal</link>
+    <guid>https://quartz.jzhao.xyz/Hack-The-Box/Linux/Medium/Heal</guid>
+    <description> Enumeration Open ports: sudo nmap -T4 -sCV -p- -Pn --min-rate 5000 --open 10.10.11.46 ..</description>
+    <pubDate>Fri, 16 May 2025 22:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
